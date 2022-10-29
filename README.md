@@ -10,7 +10,7 @@ Run the development server:
 
 ```bash
 npm run dev
-# or
+ or
 yarn dev
 ```
 
@@ -18,4 +18,6 @@ Install dependencies:
 
 ```shell
   npm install
+   or
+  yarn install
   ```
